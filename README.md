@@ -13,12 +13,12 @@ A repo to organize JavaEE projects and assignments
 
 ---
 
-###Class Home Page
+###Class Home 
 - [Home](https://github.com/MadJavaEntFall2016/home)
 - [Course Calendar](https://github.com/MadJavaEntFall2016/home/blob/master/CourseCalendar.md)
 
 
-###Student Home Pages
+###Student Home 
 - [Student Pages](https://github.com/MadJavaEntFall2016/student)
 
 ###Individual Project Repo Links
