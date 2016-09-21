@@ -20,6 +20,7 @@ A repo to organize JavaEE projects and assignments
 
 ###Student Home 
 - [Student Pages](https://github.com/MadJavaEntFall2016/student)
+- [Web Services/APIs](http://www.programmableweb.com/)
 
 ###Individual Project Repo Links
 - [StaShit](https://github.com/tkinsman/storeShare)
