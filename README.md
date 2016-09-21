@@ -15,6 +15,7 @@ A repo to organize JavaEE projects and assignments
 
 ###Class Home Page
 - [Home](https://github.com/MadJavaEntFall2016/home)
+- [Course Calendar](https://github.com/MadJavaEntFall2016/home/blob/master/CourseCalendar.md)
 
 
 ###Student Home Pages
@@ -25,5 +26,5 @@ A repo to organize JavaEE projects and assignments
 - [Individual Time Log](https://github.com/tkinsman/storeShare/blob/master/timeLog.md) (Original Version)
 
 ###Group Project Repo Links
-- [Add Group Repo Once Created--Currently empty]()
-- [Group Time Log]()
+- [Add Group Repo Once Created--Currently Empty]()
+- [Group Time Log-- Currently Empty]()
