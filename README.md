@@ -1,2 +1,29 @@
+---
+
+---
+
 # JavaEE
-A repo to organize JavaEE projects
+A repo to organize JavaEE projects and assignments
+
+---
+
+![Kitten Boat](images/codeCatBoat.jpg)
+
+---
+
+---
+
+###Class Home Page
+- [Home](https://github.com/MadJavaEntFall2016/home)
+
+
+###Student Home Pages
+- [Student Pages](https://github.com/MadJavaEntFall2016/student)
+
+###Individual Project Repo Links
+- [StaShit](https://github.com/tkinsman/storeShare)
+- [Individual Time Log](https://github.com/tkinsman/storeShare/blob/master/timeLog.md) (Original Version)
+
+###Group Project Repo Links
+- [Add Group Repo Once Created--Currently empty]()
+- [Group Time Log]()
