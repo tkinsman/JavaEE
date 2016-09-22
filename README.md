@@ -26,7 +26,7 @@ A repo to organize JavaEE projects and assignments
 - [StaShit](https://github.com/tkinsman/storeShare)
 - [Individual Time Log](https://github.com/tkinsman/storeShare/blob/master/timeLog.md) 
 
-####HTML Themes I Like
+HTML Themes I Like
 - [All From Bootstrap](https://startbootstrap.com/template-categories/all/)
 - [Agency](https://github.com/BlackrockDigital/startbootstrap-agency)
 - [Bare Bones](https://blackrockdigital.github.io/startbootstrap-scrolling-nav/)
