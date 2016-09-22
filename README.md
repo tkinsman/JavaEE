@@ -24,8 +24,18 @@ A repo to organize JavaEE projects and assignments
 
 ###Individual Project Repo Links
 - [StaShit](https://github.com/tkinsman/storeShare)
-- [Individual Time Log](https://github.com/tkinsman/storeShare/blob/master/timeLog.md) (Original Version)
+- [Individual Time Log](https://github.com/tkinsman/storeShare/blob/master/timeLog.md) 
+
+####HTML Themes I Like
+- [All From Bootstrap](https://startbootstrap.com/template-categories/all/)
+- [Agency](https://github.com/BlackrockDigital/startbootstrap-agency)
+- [Bare Bones](https://blackrockdigital.github.io/startbootstrap-scrolling-nav/)
+
 
 ###Group Project Repo Links
 - [Add Group Repo Once Created--Currently Empty]()
 - [Group Time Log-- Currently Empty]()
+
+### Helpful Resources
+- [Data Generator](http://www.yandataellan.com/)
+- [Weather API](https://alerts.weather.gov/)
