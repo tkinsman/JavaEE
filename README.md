@@ -39,3 +39,5 @@ HTML Themes I Like
 ### Helpful Resources
 - [Data Generator](http://www.yandataellan.com/)
 - [Weather API](https://alerts.weather.gov/)
+- [Bootsnipp Templates](http://bootsnipp.com/)
+- [Markdown Live Editor](http://dillinger.io/)
