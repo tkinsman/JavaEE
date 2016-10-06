@@ -17,6 +17,9 @@ A repo to organize JavaEE projects and assignments
 - [Home](https://github.com/MadJavaEntFall2016/home)
 - [Course Calendar](https://github.com/MadJavaEntFall2016/home/blob/master/CourseCalendar.md)
 
+###Class Work
+-[Activity 2: SOAP Demo Test](https://github.com/tkinsman/toddSoapDemo)
+-[Activity 3: Old SOAP with NOAA/NDFD](https://github.com/tkinsman/ndfdDemo)
 
 ###Student Home 
 - [Student Pages](https://github.com/MadJavaEntFall2016/student)
