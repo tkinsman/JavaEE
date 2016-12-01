@@ -26,7 +26,7 @@ A repo to organize JavaEE projects and assignments
 - [Web Services/APIs](http://www.programmableweb.com/)
 
 ###Individual Project Repo Links
-- [StaShit](https://github.com/tkinsman/storeShare)
+- [StaShit](https://github.com/tkinsman/StaShit)
 - [Individual Time Log](https://github.com/tkinsman/storeShare/blob/master/timeLog.md) 
 
 HTML Themes I Like
